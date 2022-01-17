@@ -1,2 +1,1 @@
-# odin-recipes
-Website with my favorite recipes
+This is a website made with raw HTML that includes some of my favorite recipes of all time. We will go through some italian, french and venezuelan food and I will update the page in the future with CSS and maybe some JS features.
